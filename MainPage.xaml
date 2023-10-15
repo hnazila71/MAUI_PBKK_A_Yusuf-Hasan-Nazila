@@ -15,13 +15,13 @@
                 HorizontalOptions="Center" />
 
             <Label
-                Text="Institut Teknologi Sepuluh Nopember"
+                Text="Yusuf Hasan Nazila"
                 SemanticProperties.HeadingLevel="Level1"
                 FontSize="32"
                 HorizontalOptions="Center" />
 
             <Label
-                Text="Adrian Ismu Arifianto"
+                Text="Welcome to .NET multi_platform App UI"
                 SemanticProperties.HeadingLevel="Level2"
                 FontSize="18"
                 HorizontalOptions="Center" />
